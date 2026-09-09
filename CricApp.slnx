@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CricApp.API/CricApp.API.csproj" />
+  <Project Path="CricApp.Domain/CricApp.Domain.csproj" />
+  <Project Path="CricApp.Infrastructure/CricApp.Infrastructure.csproj" />
+</Solution>

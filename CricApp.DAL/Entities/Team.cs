@@ -1,4 +1,4 @@
-namespace CricApp.Domain.Entities;
+namespace CricApp.DAL.Entities;
 
 public class Team
 {

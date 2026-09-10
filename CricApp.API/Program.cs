@@ -1,4 +1,4 @@
-using CricApp.Infrastructure.Data;
+using CricApp.DAL.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

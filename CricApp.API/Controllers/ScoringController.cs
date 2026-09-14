@@ -1,5 +1,5 @@
-using CricApp.Domain.Entities;
-using CricApp.Infrastructure.Data;
+using CricApp.DAL.Data;
+using CricApp.DAL.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
